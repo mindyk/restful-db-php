@@ -1,0 +1,8 @@
+{
+    "multidb" : false,
+    "mysql" : {
+        "host" : "localhost",
+        "user" : "user",
+        "pwd" : "password"
+    }
+}
