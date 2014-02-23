@@ -4,5 +4,6 @@
         "host" : "localhost",
         "user" : "user",
         "pwd" : "password"
-    }
+    },
+    "prefix" : "/api"
 }

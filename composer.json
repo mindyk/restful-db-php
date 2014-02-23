@@ -1,6 +1,5 @@
 {
     "require": {
-        "slim/slim": "2.*",
-        "symfony/console": "2.4.*@dev"
+        "slim/slim": "2.*"
     }
 }
