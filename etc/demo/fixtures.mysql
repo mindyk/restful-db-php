@@ -1,0 +1,7 @@
+use demo;
+
+INSERT INTO user (name) VALUES
+('Hans'),
+('Franz'),
+('Gans'),
+('Mans');
